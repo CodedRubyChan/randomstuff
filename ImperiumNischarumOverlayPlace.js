@@ -6,8 +6,8 @@
 // @author       max-was-here and placeDE Devs and RubyX_Coded
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png
-// @updateURL    -
-// @downloadURL  -
+// @updateURL    https://github.com/CodedRubyChan/randomstuff/raw/main/ImperiumNischarumOverlayPlace.js
+// @downloadURL  https://github.com/CodedRubyChan/randomstuff/raw/main/ImperiumNischarumOverlayPlace.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
